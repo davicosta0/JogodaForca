@@ -12,11 +12,6 @@ Como funciona
    - O jogador adivinha todas as letras da palavra (vitória).
    - O jogador esgota todas as tentativas (derrota).
 
-Como executar
-
-1. Baixe ou clone este repositório.
-2. Execute
-
 Personalização
 Você pode personalizar o jogo alterando a lista de palavras na função escolher_palavra no arquivo main.py. Basta adicionar ou remover palavras da lista:
 
